@@ -1,0 +1,11 @@
+{"ts": "2026-02-03T20:42:08", "mode": "full", "candidates": 1, "published": 1, "status": "completed", "duration_s": 4, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T21:14:48", "mode": "full", "candidates": 1, "published": 1, "status": "completed", "duration_s": 2, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T21:16:33", "mode": "incremental", "candidates": 0, "published": 0, "status": "no_change", "duration_s": 3, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T21:19:18", "mode": "incremental", "candidates": 0, "published": 0, "status": "no_change", "duration_s": 1, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T22:02:51", "mode": "incremental", "candidates": 0, "published": 0, "status": "no_change", "duration_s": 3, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T22:03:15", "mode": "incremental", "candidates": 0, "published": 0, "status": "no_change", "duration_s": 2, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T22:29:02", "mode": "incremental", "candidates": 0, "published": 0, "skipped": 0, "failed": 0, "status": "no_change", "duration_s": 1, "head_commit": "987ce2d34153f33a380467f5be9361beeb1ea9f4"}
+{"ts": "2026-02-03T23:15:43", "mode": "incremental", "candidates": 1, "published": 0, "skipped": 0, "failed": 1, "status": "completed", "duration_s": 1, "head_commit": "f715d251865cf96a6be45cd9eb978da299bf5edd"}
+{"ts": "2026-02-03T23:18:51", "mode": "incremental", "candidates": 0, "published": 0, "skipped": 0, "failed": 0, "status": "no_change", "duration_s": 1, "head_commit": "f715d251865cf96a6be45cd9eb978da299bf5edd"}
+{"ts": "2026-02-03T23:20:15", "mode": "incremental", "candidates": 0, "published": 0, "skipped": 0, "failed": 0, "status": "no_change", "duration_s": 1, "head_commit": "f715d251865cf96a6be45cd9eb978da299bf5edd"}
+{"ts": "2026-02-03T23:23:03", "mode": "incremental", "candidates": 0, "published": 0, "skipped": 0, "failed": 0, "status": "no_change", "duration_s": 2, "head_commit": "f715d251865cf96a6be45cd9eb978da299bf5edd"}
